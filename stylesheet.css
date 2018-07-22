@@ -1,0 +1,23 @@
+
+html  {
+  background-color: white;
+ }
+
+
+body  {
+  font-family: Arial;
+  margin:5px;
+  height: 1000px;
+  background-color: black;
+}
+
+h1  {
+padding-top: 468px;
+color:#FAEBD7;
+text-align: center;
+}
+
+h3{
+  color:#FAEBD7;
+  text-align: center;
+}
